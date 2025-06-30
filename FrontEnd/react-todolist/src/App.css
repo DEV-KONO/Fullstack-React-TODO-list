@@ -1,0 +1,28 @@
+.centered {
+  text-align: center;
+}
+
+.funcBar {
+  display: flex;
+  gap: 12px;
+  align-items: baseline;
+}
+
+.funcBarInput {
+  font-size: 2em;
+  padding: 0.2em 0.5em;
+  line-height: 1;
+}
+
+.funcBarButton {
+  font-size: 2em;
+  height: 52px;
+  padding: 0.2em 0.5em;
+  line-height: 1;
+}
+
+.todoItem {
+  font-size: 2em;
+  padding: 0.2em 0.5em;
+  line-height: 1; 
+}
